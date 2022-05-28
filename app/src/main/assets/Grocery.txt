@@ -32,8 +32,8 @@ Soap|13.97|https://images.thdstatic.com/productImages/a62b4338-d21f-4e9f-af99-9b
 Shampoo|10.49|https://i5.walmartimages.com/asr/2e1b4c73-cc8d-4c14-8703-f8de44339254.8c263081f251d0da935bc0a9eb4bc26d.jpeg
 Razors|17.97|https://cdn11.bigcommerce.com/s-dukhrgn8mp/images/stencil/1280x1280/products/331/1821/Gillette_ProGlide_Razor-3-Blades_1280x1280__06015.1615264014.jpg?c=2
 Toothpaste|1.97|https://m.media-amazon.com/images/I/71N7pOlkSYL._SL1500_.jpg
-Deodorant|11.97|https://i5.walmartimages.com/asr/1ab49db4-16fe-429e-89e1-3712322235bf_1.a473f79ccaae46034186912ef21cf1fb.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF
-Light Bulbs|4.97|http://mobileimages.lowes.com/productimages/d098a809-1885-494a-b4b4-3eb2bdb3bce8/09103079.jpg
+Deodorant|4.99|https://i5.walmartimages.com/asr/1ab49db4-16fe-429e-89e1-3712322235bf_1.a473f79ccaae46034186912ef21cf1fb.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF
+Light Bulbs|4.97|https://conservativesteward.org/wp-content/uploads/2013/12/Bulb-Box.jpg
 Trash Bags|7|https://images.heb.com/is/image/HEBGrocery/001646151?fit=constrain,1&wid=800&hei=800&fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0
 Dish Soap|9.94|https://m.media-amazon.com/images/I/71+lbd4w54L._AC_SL1500_.jpg
 Paper Towels|20.98|https://m.media-amazon.com/images/I/71SHhAkNLgL.jpg
@@ -44,7 +44,7 @@ Grains|5.24|https://www.healthyeating.org/images/default-source/home-0.0/nutriti
 Salt|2.24|https://i5.walmartimages.com/asr/f28570ad-e277-4f17-80f1-a32e59b54a24.d3804a23b20113ebf2817d35b92efc7a.jpeg
 Black Pepper|2.08|https://cdn.shopify.com/s/files/1/0838/7991/products/black-peppercorns-bulk.jpg?v=1627988915
 Snack Bar|2.98|https://m.media-amazon.com/images/I/81-YFzSaGzL._AC_SL1500_.jpg
-Chips|1.68|https://m.media-amazon.com/images/I/81mABE1sNhL._SL1500_.jpg
+Chips|20.68|https://m.media-amazon.com/images/I/81mABE1sNhL._SL1500_.jpg
 Cookies|4.28|https://images.freecreatives.com/wp-content/uploads/2016/08/Holiday-Cookie-Packaging.jpg
 Biscuits|3.98|https://i5.walmartimages.com/asr/dbdad7f8-daf9-44d9-a111-d05dc1216d04.a7211c58b19ed821b0bde43747f10204.jpeg
 Ice Cream|4.48|https://images.albertsons-media.com/is/image/ABS/960080996?$ecom-pdp-desktop$&defaultImage=Not_Available&defaultImage=Not_Available

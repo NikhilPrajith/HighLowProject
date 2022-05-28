@@ -1,0 +1,50 @@
+Bill Gates|132,000,000,000|https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F77774e74-c7bb-11ec-81c0-e8eabc9951c2.jpg?crop=1600%2C900%2C0%2C0&resize=1200
+Mukesh Ambani|97,000,000,000|https://imageio.forbes.com/specials-images/imageserve/5c7d7829a7ea434b351ba0b6/0x0.jpg?format=jpg&crop=1837,1839,x206,y250,safe&height=416&width=416&fit=bounds
+Jack Ma|24,000,000,000|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Enabling_eCommerce-_Small_Enterprises%2C_Global_Players_%2839008130265%29_%28cropped%29.jpg/800px-Enabling_eCommerce-_Small_Enterprises%2C_Global_Players_%2839008130265%29_%28cropped%29.jpg
+Mark Cuban|5,000,000,000|https://www.incimages.com/uploaded_files/image/1920x1080/getty-487321956_394868.jpg
+Roman Abramovich|8,000,000,000|https://cdn.images.express.co.uk/img/dynamic/67/590x/1604961_1.jpg?r=1651644516345
+Steven Spielberg|4,000,000,000|https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F03%2F07%2FSteven-Spielberg-Oscar-1999.jpg
+Kanye West|2,000,000,000|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_42/3513498/211019-ye-kanye-west-mb-1112.JPG
+Celine Dion|800,000,000|https://www.billboard.com/wp-content/uploads/media/celine-dion-portrait-billboard-1548.jpg
+Kylie Jenner|1,000,000,000|https://ca-times.brightspotcdn.com/dims4/default/17c3b88/2147483647/strip/true/crop/4928x3280+0+0/resize/840x559!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F48%2Fe36c750de838d8c4217d6e856656%2F9a18dabc7aa4420aae98e44ec470d664
+Tom Cruise|570,000,000|https://upload.wikimedia.org/wikipedia/commons/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg
+Shahrukh Khan|600,000,000|https://thediplomat.com/wp-content/uploads/2013/02/sizes/td-story-s-2/15741_527c49e27839b.jpg
+Stephen King|500,000,000|https://media.npr.org/assets/img/2020/04/07/stephen-king.by-shane-leonard_wide-f9df986f26c8d66ecb63cf8e49bded6360cbd9d3.jpg?s=1400
+Jessica Biel|250,000,000|https://m.media-amazon.com/images/M/MV5BMTQyNjgzODI5OV5BMl5BanBnXkFtZTcwMjI5MTQ1Mw@@._V1_UY1200_CR99,0,630,1200_AL_.jpg
+Jennifer Aniston|300,000,000|https://stylecaster.com/wp-content/uploads/2021/05/jennifer-aniston-friends.png?w=536
+Stephen Curry|160,000,000|https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg4MDIzNjkxMDA5ODYxNDE4/stephen-curry-smiles-iso.jpg
+Robert Downey JR.|300,000,000|https://static.wikia.nocookie.net/snl/images/e/e3/Robert_Downey_Jr..jpg/revision/latest/top-crop/width/360/height/450?cb=20200725224545
+Will Smith|350,000,000|https://media1.popsugar-assets.com/files/thumbor/BIuyg4EYKCKQqOg44gdHyF_qi7I/613x51:2226x1664/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/10/26/001/n/1922398/c8450c525f97556842e0e2.16322452_/i/Will-Smith.jpg
+Keanu Reeves|400,000,000|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Keanu_Reeves_2013_%2810615146086%29_%28cropped%29.jpg/640px-Keanu_Reeves_2013_%2810615146086%29_%28cropped%29.jpg
+Jackie Chan|520,000,000|https://www.hollywoodreporter.com/wp-content/uploads/2012/07/chan_a.jpg?w=681&h=383&crop=1
+Arnold Schwarzenegger|400,000,000|https://cdn.britannica.com/11/222411-050-D3D66895/American-politician-actor-athlete-Arnold-Schwarzenegger-2016.jpg
+Doja Cat|8,000,000|http://cdn.cnn.com/cnnnext/dam/assets/220403193043-02-doja-cat-grammy-awards-2022.jpg
+Megan Fox|8,000,000|https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-04/megan-fox-lc-tease-220426-f66f70.jpg
+Olivia Rodrigo|5,000,000|https://media.glamour.com/photos/60afe10e10793d699b3144cd/6:7/w_2568,h_2996,c_limit/SOUR_FINAL.jpg
+Amanda Bynes|6,000,000|https://upload.wikimedia.org/wikipedia/commons/1/13/Amanda_Bynes_on_the_Red_Carpet_%28cropped2%29.jpg
+Lindsay Lohan|150,000,000|https://images.ctfassets.net/4cd45et68cgf/1mphwoQ1kateQaegP3Dakd/d4dc8a07526b6f1e6b0d93dfabe994f5/Lindsay_Lohan?w=2560
+Stephen Baldwin|1,000,000|https://upload.wikimedia.org/wikipedia/commons/6/6c/Stephen_Baldwin_%28cropped%29.jpg
+Dennis Rodman|500,000|https://media1.popsugar-assets.com/files/thumbor/Y5Kj9dM-8hYY-45wg9tpNHCnVVk/0x672:3261x3933/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/05/13/821/n/1922398/4067f60e5ebc3fdc88b145.72337155_/i/how-many-times-has-dennis-rodman-been-married.jpg
+Mike Tyson|3,000,000|https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mike_Tyson_2019_by_Glenn_Francis.jpg/800px-Mike_Tyson_2019_by_Glenn_Francis.jpg
+Logan Paul|19,000,000|https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_53/3438974/201231-logan-paul-se-141p.jpg
+Canelo Alvarez|140,000,000|https://phantom-marca.unidadeditorial.es/cc4a5d365104ae009f6e50607cb5cbb0/resize/1320/f/jpg/assets/multimedia/imagenes/2022/03/17/16475372919764.jpg
+Blake Lively|30,000,000|https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/blake-lively-attends-the-2022-met-gala-celebrating-in-news-photo-1651561402.jpg
+MrBeast|25,000,000|https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e.jpg
+Drake|180,000,000|https://www.nme.com/wp-content/uploads/2021/11/drake-statement-astroworld-festival-tragedy-travis-scott@2000x1270-696x442.jpg
+Pete Davidson|8,000,000|https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2022%2F02%2F07%2Fpete-davidson-4.jpg&q=60
+Conor McGregor|200,000,000|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Conor_McGregor_2018.jpg/640px-Conor_McGregor_2018.jpg
+Kevin Hart|200,000,000|https://upload.wikimedia.org/wikipedia/commons/8/80/Kevin_Hart_2014_%28cropped_2%29.jpg
+Dwayne Johnson|320,000,000|https://upload.wikimedia.org/wikipedia/commons/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg
+Mike Myers|200,000,000|https://m.media-amazon.com/images/M/MV5BMTY0MTM1MTM5Nl5BMl5BanBnXkFtZTcwNzA1OTM3MQ@@._V1_UY1200_CR82,0,630,1200_AL_.jpg
+Danielle Bregoli|20,000,000|https://media.allure.com/photos/5c3235471e0b7d2cec5a4e1d/3:4/w_1997,h_2663,c_limit/danielle%20bregoli%20bhad%20bhadie.jpg
+Pewdiepie|40,000,000|https://i.guim.co.uk/img/media/9d9759a25269ff4dd7f4c41bde320c4928bdfb65/0_24_3000_1800/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e4916223d76a56180788e7bfc1d25b02
+Ronda Rousey|13,000,000|https://www.biography.com/.image/t_share/MTc5ODc1ODI4NTQzMjY4ODUz/gettyimages-630584200-square.jpg
+Tom Brady|250,000,000|https://brobible.com/wp-content/uploads/2022/05/tom-brady-bucs-tampa.jpg?w=1024
+Aaron Rodgers|120,000,000|https://nypost.com/wp-content/uploads/sites/2/2021/11/aaron-rodgers-3.jpg?quality=75&strip=all
+Wayne Rooney|170,000,000|https://resources.premierleague.com/premierleague/photos/players/250x250/p13017.png
+Ichiro Suzuki|180,000,000|https://library.sportingnews.com/2021-08/ichiro2001-sn-ftr-032119jpg_vzbtpbkviwxc1p3pnwdxh6f0n.jpg
+Michael Phelps|80,000,000|https://www.denverpost.com/wp-content/uploads/2021/06/US_Swim_Trials_Phelps_Swimming_65468.jpg
+Usain Bolt|90,000,000|https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Usain_Bolt_after_4_%C3%97_100_m_Rio_2016.jpg/1200px-Usain_Bolt_after_4_%C3%97_100_m_Rio_2016.jpg
+BTS|100,000,000|https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/BTS_LG_G7_ThinQ_mobile_advertisement_%28cropped%29.jpg/640px-BTS_LG_G7_ThinQ_mobile_advertisement_%28cropped%29.jpg
+Sebastian Csar|3,000,000|https://www.pngitem.com/pimgs/m/232-2329348_professor-download-hd-png-clipart-professor-png-transparent.png
+Us|-10000|https://t4.ftcdn.net/jpg/03/14/76/05/360_F_314760569_Sd9TFhzzmMniBMXfifrjfUho8JvHduYv.jpg

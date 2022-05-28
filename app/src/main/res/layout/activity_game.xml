@@ -1,10 +1,215 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
+<RelativeLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#040303"
         tools:context=".GameActivity">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+            android:id="@+id/mode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="25dp"
+            android:fontFamily="@font/galindo"
+            android:text="Mode"
+            android:textColor="#F6F8FF"
+            android:textSize="25dp"/>
+    <TextView
+            android:id="@+id/score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="25dp"
+            android:fontFamily="@font/galindo"
+            android:text="Score: 0"
+            android:textColor="#F6F8FF"
+            android:textSize="25dp"/>
+    <TextView
+            android:id="@+id/charBox1"
+            android:layout_width="360dp"
+            android:layout_height="290dp"
+            android:background="@drawable/box2"
+            android:layout_marginTop="14dp"
+            android:gravity="center"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="9dp"
+            android:layout_below="@+id/mode"/>
+    <TextView
+            android:id="@+id/charBox2"
+            android:layout_width="360dp"
+            android:layout_height="290dp"
+            android:background="@drawable/box1"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_below="@+id/charBox1"/>
+    <TextView
+            android:id="@+id/vsCircle"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@drawable/circle1"
+            android:layout_marginTop="270dp"
+            android:text="VS"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#F6F8FF"
+            android:textSize="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="175dp"
+            android:layout_below="@+id/mode"/>
+
+    <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="170dp"
+            app:cardCornerRadius="8dp"
+            android:layout_below="@+id/mode"
+            android:layout_marginTop="50dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="35dp"
+            android:elevation="10dp">
+
+        <ImageView
+                android:id="@+id/img1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:background="@color/white"
+                android:scaleType="centerCrop"
+                tools:srcCompat="@tools:sample/avatars"
+        />
+    </androidx.cardview.widget.CardView>
+    <TextView
+            android:id="@+id/name1"
+            android:maxLines="2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:autoSizeTextType="uniform"
+
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="25dp"
+            android:layout_below="@+id/mode"
+            android:layout_marginTop="75dp"
+            android:fontFamily="@font/galindo"
+            android:text="Mohammad Rahman"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#F6F8FF"
+            android:textSize="18dp" android:layout_alignParentStart="true" android:layout_marginStart="201dp"/>
+    <TextView
+            android:id="@+id/verb1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="95dp"
+            android:layout_below="@+id/name1"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/galindo"
+            android:text="has"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#F6F8FF"
+            android:textSize="20dp"/>
+    <TextView
+            android:id="@+id/value1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:autoSizeTextType="uniform"
+
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="35dp"
+            android:layout_below="@+id/verb1"
+            android:layout_marginTop="25dp"
+            android:fontFamily="@font/galindo"
+            android:text="$90 Billion"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#F6F8FF"
+            android:textSize="30dp" android:layout_alignParentStart="true" android:layout_marginStart="216dp"/>
+    <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="170dp"
+            app:cardCornerRadius="8dp"
+            android:layout_below="@+id/charBox1"
+            android:layout_marginTop="45dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="35dp"
+            android:elevation="10dp">
+
+        <ImageView
+                android:id="@+id/img2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:background="@color/white"
+                android:scaleType="centerCrop"
+                tools:srcCompat="@tools:sample/avatars"
+        />
+    </androidx.cardview.widget.CardView>
+    <TextView
+            android:id="@+id/name2"
+            android:layout_width="wrap_content"
+            android:layout_weight="0.5"
+            android:layout_height="wrap_content"
+            android:autoSizeTextType="uniform"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="40dp"
+            android:layout_below="@+id/charBox1"
+            android:layout_marginTop="55dp"
+            android:fontFamily="@font/galindo"
+            android:text="Joe Biden"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#F6F8FF"
+            android:textSize="18dp" android:layout_alignParentEnd="true" android:layout_marginEnd="221dp"/>
+    <TextView
+            android:id="@+id/verb2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="95dp"
+            android:layout_below="@+id/name2"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/galindo"
+            android:text="has"
+            android:textColor="#F6F8FF"
+            android:textSize="20dp"/>
+
+    <Button
+            android:text="M O R E"
+            android:id="@+id/moreButton"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="25dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="65dp"
+            android:backgroundTint="#33a349"
+            android:onClick="answerSelection"
+            android:layout_below="@+id/verb2"/>
+    <Button
+            android:text="L E S S"
+            android:id="@+id/lessButton"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="0dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="65dp"
+            android:backgroundTint="#a60820"
+            android:onClick="answerSelection"
+            android:layout_below="@+id/moreButton"/>
+
+</RelativeLayout>
