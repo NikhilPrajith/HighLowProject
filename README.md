@@ -12,6 +12,6 @@ This application allows users to select from a list of 4 categories: YouTube Sub
 
 ### Possible errors:
 
-In the case you receive a “no sdk found” error. Please add a [local.properties](http://local.properties) file and have the following information:
+In the case you receive a “no sdk found” error. Please add a local.properties file and have the following information:
 
 sdk.dir = {Path to your sdk}
