@@ -9,6 +9,7 @@ This application allows users to select from a list of 4 categories: YouTube Sub
 ### Video Walkthrough:
 
 [http://g.recordit.co/AQ7vQQ6kNT.gif](http://g.recordit.co/AQ7vQQ6kNT.gif)
+<img src="http://g.recordit.co/AQ7vQQ6kNT.gif">
 
 ### Possible errors:
 
